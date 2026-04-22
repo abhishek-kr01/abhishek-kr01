@@ -45,7 +45,7 @@ I have hands-on experience developing real-world applications, focusing on desig
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
 🔗 Portfolio: https://personal-portfolio-abhishek-kr01s-projects.vercel.app  
 💼 LinkedIn: https://www.linkedin.com/in/akr-abhishek-kr01  
