@@ -49,7 +49,7 @@ I have hands-on experience developing real-world applications, focusing on desig
 
 🔗 Portfolio: https://personal-portfolio-abhishek-kr01s-projects.vercel.app  
 💼 LinkedIn: https://www.linkedin.com/in/akr-abhishek-kr01  
-📧 Email: abhishekbhi28@gmail.com
+📧 Email: abhishekmdp11@gmail.com
 ---
 
 <p align="center">⭐ Always building. Always learning.</p>
