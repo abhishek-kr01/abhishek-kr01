@@ -173,6 +173,7 @@ class Abhishek extends SoftwareEngineer {
 | 🤖 **FinFetch** | AI financial platform — real-time stock tracking & Gemini-powered chatbot | FastAPI · MongoDB · JWT · React · Chart.js · Google Generative AI | [GitHub](https://github.com/abhishek-kr01/FinFetch) |
 | 📋 **ProjectMgmt** | Production REST API — RBAC, JWT auth, email verification, task management | Node.js · Express.js · MongoDB · Mongoose · JWT · Nodemailer | [GitHub](https://github.com/abhishek-kr01/projectmgmt-backend) |
 | ✍️ **Blogsy** | AI blog platform — Gemini content gen, comment moderation, admin panel | React.js · Node.js · Express.js · MongoDB · Tailwind CSS · Gemini API · ImageKit | [GitHub](https://github.com/abhishek-kr01/Blogsy) · [Live ↗](https://blogsy-lj644t149-abhishek-kr01s-projects.vercel.app/) |
+| 🤖 **Supportly** | AI customer support SaaS — embeddable chatbot with Gemini-powered responses and business knowledge training | Next.js · TypeScript · MongoDB · Mongoose · Gemini API · Scalekit · Tailwind CSS | [GitHub](https://github.com/abhishek-kr01/supportly) · [Live ↗](https://supportly-chi.vercel.app/) |
 
 </div>
 
