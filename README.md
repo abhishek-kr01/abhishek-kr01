@@ -33,7 +33,7 @@
 /**
  * @author   Abhishek Kumar
  * @role     Full Stack Engineer — Backend Heavy
- * @location New Delhi, India 🇮🇳
+ * @location Bengaluru, Karnataka, India 🇮🇳
  * @status   🟢 Actively Open to Opportunities
  */
 
