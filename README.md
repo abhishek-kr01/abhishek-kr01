@@ -40,7 +40,7 @@
 class Abhishek extends SoftwareEngineer {
 
   readonly name     = "Abhishek Kumar";
-  readonly based    = "New Delhi, India 🇮🇳";
+  readonly based    = "Bengaluru, India 🇮🇳";
 
   education = {
     masters  : "MCA @ CUSAT — 8.04 CGPA (First Class Distinction)",
