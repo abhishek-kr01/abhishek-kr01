@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;⚡+Node.js+%7C+TypeScript+%7C+Next.js+%7C+FastAPI;🤖+AI+Integration+%7C+OpenAI+%7C+Gemini+API;🔐+JWT+Auth+%7C+RBAC+%7C+REST+API+Design;🎯+Open+to+Full+Stack+%26+Backend+SDE+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;⚡+Node.js+%7C+TypeScript+%7C+NestJS+%7C+FastAPI;🤖+AI+Integration+%7C+OpenAI+%7C+Gemini+API;🔐+JWT+Auth+%7C+RBAC+%7C+REST+API+Design;🎯+Founding+Engineer+%40+Qohere)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +34,8 @@
  * @author   Abhishek Kumar
  * @role     Full Stack Engineer — Backend Heavy
  * @location Bengaluru, Karnataka, India 🇮🇳
- * @status   🟢 Actively Open to Opportunities
+ * @role     Founding Engineer @ Qohere
+ * @focus    Backend Systems, AI-Powered Developer Tools, Distributed Systems
  */
 
 class Abhishek extends SoftwareEngineer {
@@ -47,7 +48,7 @@ class Abhishek extends SoftwareEngineer {
     bachelors: "BCA @ B.N. Mandal University — 82.41% (First Class Distinction)",
   };
 
-  experience = "1+ year across 3 internships 🏢";
+  experience = "Founding Engineer @ Qohere + Previous Industry Experience";
 
   strengths = [
     "Scalable REST API Design",
@@ -59,12 +60,12 @@ class Abhishek extends SoftwareEngineer {
 
   currentlyLearning = [
     "System Design at Scale",
-    "DSA",
+    "Distributed Systems",
     "Cloud Architecture (AWS)",
   ];
 
   askMeAbout = [
-    "Node.js", "TypeScript", "React",
+    "Node.js", "TypeScript", "NestJS",
     "Next.js", "FastAPI", "Databases",
   ];
 
@@ -81,12 +82,12 @@ class Abhishek extends SoftwareEngineer {
 
 <table>
   <tr>
-    <td>🔭 Last worked on</td>
-    <td>Production apps @ <strong>Lawyered</strong> — React, Next.js, Node.js, TypeScript, Prisma, MySQL</td>
+    <td>🔭 Currently working on</td>
+    <td>Building product capabilities from the ground up @ <strong>Qohere</strong> — NestJS, TypeScript, Redis, BullMQ, GitHub Integrations</td>
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-    <td>System Design · Cloud Infra (AWS) · DSA</td>
+    <td>Distributed Systems · Cloud Infra (AWS) · Advanced System Design</td>
   </tr>
   <tr>
     <td>🤝 Open to</td>
@@ -119,6 +120,7 @@ class Abhishek extends SoftwareEngineer {
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -131,6 +133,10 @@ class Abhishek extends SoftwareEngineer {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
+### ⚡ Infrastructure & Queues
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=flat-square&logo=bull&logoColor=white)
+
 ### 🤖 AI & Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -138,6 +144,7 @@ class Abhishek extends SoftwareEngineer {
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -151,13 +158,16 @@ class Abhishek extends SoftwareEngineer {
 ## 💼 Experience Timeline
 
 ```
-✅ Full Stack SWE Intern      │ Lawyered, Gurugram          │ Jan 2026 – Apr 2026
+🟢 Founding Engineer          │ Qohere, Bengaluru            │ Jun 2026 – Present
+   └─ NestJS, TypeScript, Redis, BullMQ, GitHub Integrations, AI Automation
+
+✅ Full Stack SWE Intern      │ Lawyered, Gurugram           │ Jan 2026 – Apr 2026
    └─ React, Next.js, Node.js, TypeScript, MySQL, Prisma ORM
 
 🔶 Junior Software Engineer   │ Nirjai Technologies, Delhi   │ Jul 2025 – Oct 2025
    └─ JavaScript, TypeScript, React, Node.js, Angular
 
-🟢 Backend Developer Intern   │ Mind Empowered, Kochi        │ Dec 2024 – May 2025
+🟦 Backend Developer Intern   │ Mind Empowered, Kochi        │ Dec 2024 – May 2025
    └─ Node.js, Express.js, MongoDB, AWS
 
 ```
@@ -214,13 +224,14 @@ class Abhishek extends SoftwareEngineer {
 
 | Domain | Technologies | Level |
 |--------|-------------|-------|
-| **Backend** | Node.js · Express.js · FastAPI · REST APIs | `████████████████████` **Expert** |
+| **Backend** | Node.js · NestJS · Express.js · FastAPI · REST APIs | `████████████████████` **Expert** |
 | **Auth & Security** | JWT · RBAC · Refresh Tokens · bcrypt | `██████████████████░░` **Advanced** |
 | **TypeScript** | Interfaces · Generics · Type Guards | `████████████████░░░░` **Advanced** |
 | **Frontend** | React.js · Next.js · Angular · Tailwind | `███████████████░░░░░` **Proficient** |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Prisma · Mongoose | `████████████████░░░░` **Advanced** |
+| **Infra & Queues** | Redis · BullMQ · Queue-Based Processing | `█████████████░░░░░░░` **Proficient** |
 | **AI Integration** | OpenAI API · Gemini API · LLM Workflows | `█████████████░░░░░░░` **Proficient** |
-| **DevOps & Cloud** | Docker · AWS · Vercel · Render · Git | `██████████░░░░░░░░░░` **Intermediate** |
+| **DevOps & Cloud** | Docker · AWS · GitHub Actions · Vercel · Git | `██████████░░░░░░░░░░` **Intermediate** |
 | **System Design** | Scalable Arch · API Design · Data Modeling | `█████████████░░░░░░░` **Growing** |
 
 </div>
@@ -232,7 +243,7 @@ class Abhishek extends SoftwareEngineer {
 ✅  REST API Design & Architecture        ✅  Middleware-Driven Backend Structure
 ✅  ORM/ODM — Prisma & Mongoose          ✅  Async/Await & Promise.all Patterns
 ✅  Database Schema Design               ✅  AI Feature Integration (LLMs + Chatbots)
-✅  Scalable System Architecture         ✅  Data Structures & Algorithms
+✅  Redis & Queue-Based Processing       ✅  GitHub Integrations & Automation
 ✅  Input Validation & Error Handling    ✅  Performance Optimization Techniques
 ```
 
@@ -259,7 +270,7 @@ class Abhishek extends SoftwareEngineer {
 
 <br/>
 
-**🚀 Open to Full Stack / Backend Engineer roles — Let's build something remarkable together!**
+**🚀 Founding Engineer @ Qohere — Building scalable systems & developer tools from the ground up!**
 
 </div>
 
