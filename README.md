@@ -1,13 +1,12 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Abhishek%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend-Heavy%20%7C%20AI%20Integration&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Abhishek%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Applications&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;⚡+Node.js+%7C+TypeScript+%7C+NestJS+%7C+FastAPI;🤖+AI+Integration+%7C+OpenAI+%7C+Gemini+API;🔐+JWT+Auth+%7C+RBAC+%7C+REST+API+Design;🎯+Founding+Engineer+%40+Qohere)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;⚡+TypeScript+%7C+NestJS+%7C+Express.js+%7C+PostgreSQL+%7C+Redis;🤖+AI+Applications+%7C+OpenAI+%7C+Gemini;🔐+REST+APIs+%7C+Auth+Systems+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,10 +32,10 @@
 ```typescript
 /**
  * @author   Abhishek Kumar
- * @role     Full Stack Engineer — Backend Heavy
+ * @role     Backend Engineer & Full-Stack Developer
  * @location Bengaluru, Karnataka, India 🇮🇳
  * @role     Founding Engineer @ Qohere
- * @focus    Backend Systems, AI-Powered Developer Tools, Distributed Systems
+ * @focus    Backend Systems, AI Applications, Distributed Systems
  */
 
 class Abhishek extends SoftwareEngineer {
@@ -49,7 +48,7 @@ class Abhishek extends SoftwareEngineer {
     bachelors: "BCA @ B.N. Mandal University — 82.41% (First Class Distinction)",
   };
 
-  experience = "Founding Engineer @ Qohere + Previous Industry Experience";
+  experience = "Founding Engineer @ Qohere";
 
   strengths = [
     "Scalable REST API Design",
@@ -65,11 +64,6 @@ class Abhishek extends SoftwareEngineer {
     "Cloud Architecture (AWS)",
   ];
 
-  askMeAbout = [
-    "Node.js", "TypeScript", "NestJS",
-    "Next.js", "FastAPI", "Databases",
-  ];
-
   funFact = () =>
     "I debug in dreams 🌙 & think in request flows 🔄";
 }
@@ -77,14 +71,14 @@ class Abhishek extends SoftwareEngineer {
 
 <br clear="right"/>
 
-> 💬 *"I don't just write APIs — I architect systems that breathe, scale, and survive production."*
+> 💬 *"I enjoy building scalable backend systems, reliable APIs, and production-ready applications."*
 
 <br/>
 
 <table>
   <tr>
     <td>🔭 Currently working on</td>
-    <td>Building product capabilities from the ground up @ <strong>Qohere</strong> — NestJS, TypeScript, Redis, BullMQ, GitHub Integrations</td>
+    <td>Building product capabilities from the ground up @ <strong>Qohere</strong> — NestJS, NextJS, TypeScript, PostgreSQL, Redis, BullMQ, AI Applications</td>
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
@@ -92,7 +86,7 @@ class Abhishek extends SoftwareEngineer {
   </tr>
   <tr>
     <td>🤝 Open to</td>
-    <td>Full Stack · Backend Engineer · SDE roles — On-site / Hybrid / Remote</td>
+    <td>Backend Engineer · Full-Stack Engineer · SDE roles — On-site / Hybrid / Remote</td>
   </tr>
   <tr>
     <td>⚡ Fun fact</td>
@@ -115,9 +109,7 @@ class Abhishek extends SoftwareEngineer {
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -160,13 +152,13 @@ class Abhishek extends SoftwareEngineer {
 
 ```
 🟢 Founding Engineer          │ Qohere, Bengaluru            │ Jun 2026 – Present
-   └─ NestJS, TypeScript, Redis, BullMQ, GitHub Integrations, AI Automation
+   └─ NestJS, NextJS, TypeScript, PostgreSQL, Redis, BullMQ, AI Applications
 
 ✅ Full Stack SWE Intern      │ Lawyered, Gurugram           │ Jan 2026 – Apr 2026
    └─ React, Next.js, Node.js, TypeScript, MySQL, Prisma ORM
 
 🔶 Junior Software Engineer   │ Nirjai Technologies, Delhi   │ Jul 2025 – Oct 2025
-   └─ JavaScript, TypeScript, React, Node.js, Angular
+   └─ JavaScript, TypeScript, React, Node.js
 
 🟦 Backend Developer Intern   │ Mind Empowered, Kochi        │ Dec 2024 – May 2025
    └─ Node.js, Express.js, MongoDB, AWS
@@ -225,10 +217,10 @@ class Abhishek extends SoftwareEngineer {
 
 | Domain | Technologies | Level |
 |--------|-------------|-------|
-| **Backend** | Node.js · NestJS · Express.js · FastAPI · REST APIs | `████████████████████` **Expert** |
+| **Backend** | Node.js · NestJS · Express.js · FastAPI · REST APIs | `███████████████████░` **Advanced** |
 | **Auth & Security** | JWT · RBAC · Refresh Tokens · bcrypt | `██████████████████░░` **Advanced** |
 | **TypeScript** | Interfaces · Generics · Type Guards | `████████████████░░░░` **Advanced** |
-| **Frontend** | React.js · Next.js · Angular · Tailwind | `███████████████░░░░░` **Proficient** |
+| **Frontend** | React.js · Next.js · Tailwind | `███████████████░░░░░` **Proficient** |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Prisma · Mongoose | `████████████████░░░░` **Advanced** |
 | **Infra & Queues** | Redis · BullMQ · Queue-Based Processing | `█████████████░░░░░░░` **Proficient** |
 | **AI Integration** | OpenAI API · Gemini API · LLM Workflows | `█████████████░░░░░░░` **Proficient** |
@@ -252,7 +244,7 @@ class Abhishek extends SoftwareEngineer {
 
 ## 💡 Dev Philosophy
 
-> *"Don't just write code — design systems that scale."*
+> *"I enjoy building scalable backend systems, reliable APIs, and production-ready applications."*
 
 - **Think in flows**, not just functions → `Client → Route → Middleware → Controller → Response`
 - **Abstraction is powerful**, but only when you understand what's behind it
@@ -271,7 +263,7 @@ class Abhishek extends SoftwareEngineer {
 
 <br/>
 
-**🚀 Founding Engineer @ Qohere — Building scalable systems & developer tools from the ground up!**
+**🚀 Backend Engineer • Full-Stack Developer • AI Applications**
 
 </div>
 
