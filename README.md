@@ -224,7 +224,7 @@ class Abhishek extends SoftwareEngineer {
 | **Databases** | PostgreSQL · MySQL · MongoDB · Prisma · Mongoose | `████████████████░░░░` **Advanced** |
 | **Infra & Queues** | Redis · BullMQ · Queue-Based Processing | `█████████████░░░░░░░` **Proficient** |
 | **AI Integration** | OpenAI API · Gemini API · LLM Workflows | `█████████████░░░░░░░` **Proficient** |
-| **DevOps & Cloud** | Docker · AWS · GitHub Actions · Vercel · Git | `██████████░░░░░░░░░░` **Intermediate** |
+| **DevOps & Cloud** | Docker · AWS · GitHub Actions · Vercel · Git | `████████████░░░░░░░░` **Intermediate** |
 | **System Design** | Scalable Arch · API Design · Data Modeling | `█████████████░░░░░░░` **Growing** |
 
 </div>
