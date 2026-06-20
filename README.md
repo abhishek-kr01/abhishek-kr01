@@ -234,10 +234,10 @@ class Abhishek extends SoftwareEngineer {
 ```
 ✅  JWT Auth (Access + Refresh Tokens)    ✅  Role-Based Access Control (RBAC)
 ✅  REST API Design & Architecture        ✅  Middleware-Driven Backend Structure
-✅  ORM/ODM — Prisma & Mongoose          ✅  Async/Await & Promise.all Patterns
-✅  Database Schema Design               ✅  AI Feature Integration (LLMs + Chatbots)
-✅  Redis & Queue-Based Processing       ✅  GitHub Integrations & Automation
-✅  Input Validation & Error Handling    ✅  Performance Optimization Techniques
+✅  ORM/ODM — Prisma & Mongoose           ✅  Async/Await & Promise.all Patterns
+✅  Database Schema Design                ✅  AI Feature Integration (LLMs + Chatbots)
+✅  Redis & Queue-Based Processing        ✅  GitHub Integrations & Automation
+✅  Input Validation & Error Handling     ✅  Performance Optimization Techniques
 ```
 
 ---
